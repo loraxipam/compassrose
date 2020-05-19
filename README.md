@@ -51,6 +51,5 @@ heading 237.49°, we hear this conversation:
 "Aye, sir, binnacle shows WSW."
 
 Hump knows that a heading of -456.0° is West by South, WbS.
-
-
 ```
+
