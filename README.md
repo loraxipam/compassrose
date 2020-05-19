@@ -37,7 +37,7 @@ func main(){
 
     heading = -456.0
     direction, jargon = compassrose.DegreeToHeading(heading, compassrose.ThirtyTwoPoints, true)
-    fmt.Printf("Hump knows that a heading of -456.0° is %s, %s.\n",jargon, direction)
+    fmt.Printf("Hump knows that a heading of -456.0° is %s, %s.\n", jargon, direction)
 }
 ```
 
